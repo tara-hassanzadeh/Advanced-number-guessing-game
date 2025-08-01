@@ -28,12 +28,7 @@ In this version, the user selects a difficulty level, has a limited number of at
 
 ---
 
-## 🚀 How to Run
+## ▶️ How to Run
 
-1. Make sure **Python 3** is installed.
-2. Download the file: `advanced_number_guessing_game.py`
-3. Open your terminal or command prompt.
-4. Run the game:
-
-```bash
-python advanced_number_guessing_game.py
+You can run the code directly in **Google Colab** (no setup needed):
+https://colab.research.google.com/github/tara-hassanzadeh/Advanced-number-guessing-game/blob/main/advanced_number_guessing_game.ipynb
